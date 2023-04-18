@@ -1,0 +1,91 @@
+body{
+    margin: 3rem 3rem;
+    background-color: rgb(242, 224, 210);
+    font-family: 'Courier New', Courier, monospace;
+}
+
+header > img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+ul{
+    background-color: black;
+    height: 1.5rem;
+    padding: 1rem;
+    text-align: center;
+    margin: 2rem;
+    border-radius: 20rem;  
+}
+
+li{
+    list-style-type: none;
+    display: inline-block;
+}
+
+li > a{
+    color: rgb(242, 224, 210);
+    font-size: 1.5rem;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-decoration: none;
+    padding: 2rem;  
+}
+
+section{
+    display: flex;
+    margin: 1.5rem;
+    border-radius: 1rem;
+    justify-content: space-between;
+}
+
+article:not(.offers){
+    background-color: rgb(233, 181, 135);
+    padding: 1rem;
+    border-radius: 1rem;
+}
+
+article h1{
+    text-align: left;
+    font-size: 2rem;
+}
+
+article > img{
+    width: 30em;
+    height: 15em;
+}
+
+#bg-salon-img{
+    background-image: url('./assets/salon.jpg');
+    background-position: center;
+    opacity: 1;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 25rem;
+}
+
+article p{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 1.5rem;
+    width: 20em;
+}
+
+article.offers p{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 2rem;
+    color: white;
+    padding: 2rem;
+    margin: 1rem;
+}
+
+footer{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+footer img{
+    height: 6rem;
+    width: 6rem;
+}
+
