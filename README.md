@@ -2,6 +2,13 @@
 
 Welcome to the GitHub documentation for Hair Day Salon! This repository contains the static website project for Hair Day, a boutique hair salon that specializes in cut, color, and styling. The website was created as a frontend project for the Meta Coursera course using HTML and CSS.
 
+Live at: https://deciever002.github.io/HairDay/
+
+Snapshots: 
+
+![Uploading image.png…]()
+
+
 ## Table of Contents
 
 1. [Introduction](#introduction)
