@@ -6,7 +6,7 @@ Live at: https://deciever002.github.io/HairDay/
 
 Snapshots: 
 
-![Uploading image.png…]()
+<img width="1440" alt="image" src="https://github.com/deciever002/HairDay/assets/112121338/df07dd04-a707-4a54-80c0-fc69f1f31d6d">
 
 
 ## Table of Contents
